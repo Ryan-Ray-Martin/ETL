@@ -1,0 +1,1602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graph author="ryanmartin" created="Sun Nov 24 11:29:51 PST 2019" guiVersion="5.4.0.8" id="1574624602473" licenseCode="CLP1DINDEP50486387EX" name="PM5_Rent_Income" showComponentDetails="true">
+<Global>
+<Metadata id="Metadata0">
+<Record fieldDelimiter="," name="Affordability_Wide_2019Q2_Public" previewAttachment="${DATAIN_DIR}/Affordability_Wide_2019Q2_Public.csv" previewAttachmentCharset="UTF-8" quoteChar="both" quotedStrings="true" recordDelimiter="\r\n" skipSourceRows="0" type="delimited">
+<Field name="Field1" type="integer"/>
+<Field name="Field2" type="string"/>
+<Field name="Field3" type="integer"/>
+<Field name="Field4" type="string"/>
+<Field name="Field5" type="number"/>
+<Field name="Field6" type="number"/>
+<Field name="Field7" type="number"/>
+<Field name="Field8" type="number"/>
+<Field name="Field9" type="number"/>
+<Field name="Field10" type="number"/>
+<Field name="Field11" type="number"/>
+<Field name="Field12" type="number"/>
+<Field name="Field13" type="number"/>
+<Field name="Field14" type="number"/>
+<Field name="Field15" type="number"/>
+<Field name="Field16" type="number"/>
+<Field name="Field17" type="number"/>
+<Field name="Field18" type="number"/>
+<Field name="Field19" type="number"/>
+<Field name="Field20" type="number"/>
+<Field name="Field21" type="number"/>
+<Field name="Field22" type="number"/>
+<Field name="Field23" type="number"/>
+<Field name="Field24" type="number"/>
+<Field name="Field25" type="number"/>
+<Field name="Field26" type="number"/>
+<Field name="Field27" type="number"/>
+<Field name="Field28" type="number"/>
+<Field name="Field29" type="number"/>
+<Field name="Field30" type="number"/>
+<Field name="Field31" type="number"/>
+<Field name="Field32" type="number"/>
+<Field name="Field33" type="number"/>
+<Field name="Field34" type="number"/>
+<Field name="Field35" type="number"/>
+<Field name="Field36" type="number"/>
+<Field name="Field37" type="number"/>
+<Field name="Field38" type="number"/>
+<Field name="Field39" type="number"/>
+<Field name="Field40" type="number"/>
+<Field name="Field41" type="number"/>
+<Field name="Field42" type="number"/>
+<Field name="Field43" type="number"/>
+<Field name="Field44" type="number"/>
+<Field name="Field45" type="number"/>
+<Field name="Field46" type="number"/>
+<Field name="Field47" type="number"/>
+<Field name="Field48" type="number"/>
+<Field name="Field49" type="number"/>
+<Field name="Field50" type="number"/>
+<Field name="Field51" type="number"/>
+<Field name="Field52" type="number"/>
+<Field name="Field53" type="number"/>
+<Field name="Field54" type="number"/>
+<Field name="Field55" type="number"/>
+<Field name="Field56" type="number"/>
+<Field name="Field57" type="number"/>
+<Field name="Field58" type="number"/>
+<Field name="Field59" type="number"/>
+<Field name="Field60" type="number"/>
+<Field name="Field61" type="number"/>
+<Field name="Field62" type="number"/>
+<Field name="Field63" type="number"/>
+<Field name="Field64" type="number"/>
+<Field name="Field65" type="number"/>
+<Field name="Field66" type="number"/>
+<Field name="Field67" type="number"/>
+<Field name="Field68" type="number"/>
+<Field name="Field69" type="number"/>
+<Field name="Field70" type="number"/>
+<Field name="Field71" type="number"/>
+<Field name="Field72" type="number"/>
+<Field name="Field73" type="number"/>
+<Field name="Field74" type="number"/>
+<Field name="Field75" type="number"/>
+<Field name="Field76" type="number"/>
+<Field name="Field77" type="number"/>
+<Field name="Field78" type="number"/>
+<Field name="Field79" type="number"/>
+<Field name="Field80" type="number"/>
+<Field name="Field81" type="number"/>
+<Field name="Field82" type="number"/>
+<Field name="Field83" type="number"/>
+<Field name="Field84" type="number"/>
+<Field name="Field85" type="number"/>
+<Field name="Field86" type="number"/>
+<Field name="Field87" type="number"/>
+<Field name="Field88" type="number"/>
+<Field name="Field89" type="number"/>
+<Field name="Field90" type="number"/>
+<Field name="Field91" type="number"/>
+<Field name="Field92" type="number"/>
+<Field name="Field93" type="number"/>
+<Field name="Field94" type="number"/>
+<Field name="Field95" type="number"/>
+<Field name="Field96" type="number"/>
+<Field name="Field97" type="number"/>
+<Field name="Field98" type="number"/>
+<Field name="Field99" type="number"/>
+<Field name="Field100" type="number"/>
+<Field name="Field101" type="number"/>
+<Field name="Field102" type="number"/>
+<Field name="Field103" type="number"/>
+<Field name="Field104" type="number"/>
+<Field name="Field105" type="number"/>
+<Field name="Field106" type="number"/>
+<Field name="Field107" type="number"/>
+<Field name="Field108" type="number"/>
+<Field name="Field109" type="number"/>
+<Field name="Field110" type="number"/>
+<Field name="Field111" type="number"/>
+<Field name="Field112" type="number"/>
+<Field name="Field113" type="number"/>
+<Field name="Field114" type="number"/>
+<Field name="Field115" type="number"/>
+<Field name="Field116" type="number"/>
+<Field name="Field117" type="number"/>
+<Field name="Field118" type="number"/>
+<Field name="Field119" type="number"/>
+<Field name="Field120" type="number"/>
+<Field name="Field121" type="number"/>
+<Field name="Field122" type="number"/>
+<Field name="Field123" type="number"/>
+<Field name="Field124" type="number"/>
+<Field name="Field125" type="number"/>
+<Field name="Field126" type="number"/>
+<Field name="Field127" type="number"/>
+<Field name="Field128" type="number"/>
+<Field name="Field129" type="number"/>
+<Field name="Field130" type="number"/>
+<Field name="Field131" type="number"/>
+<Field name="Field132" type="number"/>
+<Field name="Field133" type="number"/>
+<Field name="Field134" type="number"/>
+<Field name="Field135" type="number"/>
+<Field name="Field136" type="number"/>
+<Field name="Field137" type="number"/>
+<Field name="Field138" type="number"/>
+<Field name="Field139" type="number"/>
+<Field name="Field140" type="number"/>
+<Field name="Field141" type="number"/>
+<Field name="Field142" type="number"/>
+<Field name="Field143" type="number"/>
+<Field name="Field144" type="number"/>
+<Field name="Field145" type="number"/>
+<Field name="Field146" type="number"/>
+<Field name="Field147" type="number"/>
+<Field name="Field148" type="number"/>
+<Field name="Field149" type="number"/>
+<Field name="Field150" type="number"/>
+<Field name="Field151" type="number"/>
+<Field name="Field152" type="number"/>
+<Field name="Field153" type="number"/>
+<Field name="Field154" type="number"/>
+<Field name="Field155" type="number"/>
+<Field name="Field156" type="number"/>
+<Field name="Field157" type="number"/>
+<Field name="Field158" type="number"/>
+<Field name="Field159" type="number"/>
+<Field name="Field160" type="number"/>
+<Field name="Field161" type="number"/>
+<Field name="Field162" type="number"/>
+<Field name="Field163" type="number"/>
+<Field name="Field164" type="number"/>
+<Field name="Field165" type="number"/>
+<Field name="Field166" type="number"/>
+<Field eofAsDelimiter="true" name="Field167" type="number"/>
+</Record>
+</Metadata>
+<Metadata id="Metadata5">
+<Record fieldDelimiter="," name="Affordability_Wide_2019Q2_Public" previewAttachment="${DATAIN_DIR}/Affordability_Wide_2019Q2_Public.csv" previewAttachmentCharset="UTF-8" quoteChar="both" quotedStrings="true" recordDelimiter="\r\n" skipSourceRows="0" type="delimited">
+<Field name="Field1" type="integer"/>
+<Field name="Field2" type="string"/>
+<Field name="Field3" type="integer"/>
+<Field name="Field4" type="string"/>
+<Field name="Field5" type="number"/>
+<Field name="Field6" type="number"/>
+<Field name="Field7" type="number"/>
+<Field name="Field8" type="number"/>
+<Field name="Field9" type="number"/>
+<Field name="Field10" type="number"/>
+<Field name="Field11" type="number"/>
+<Field name="Field12" type="number"/>
+<Field name="Field13" type="number"/>
+<Field name="Field14" type="number"/>
+<Field name="Field15" type="number"/>
+<Field name="Field16" type="number"/>
+<Field name="Field17" type="number"/>
+<Field name="Field18" type="number"/>
+<Field name="Field19" type="number"/>
+<Field name="Field20" type="number"/>
+<Field name="Field21" type="number"/>
+<Field name="Field22" type="number"/>
+<Field name="Field23" type="number"/>
+<Field name="Field24" type="number"/>
+<Field name="Field25" type="number"/>
+<Field name="Field26" type="number"/>
+<Field name="Field27" type="number"/>
+<Field name="Field28" type="number"/>
+<Field name="Field29" type="number"/>
+<Field name="Field30" type="number"/>
+<Field name="Field31" type="number"/>
+<Field name="Field32" type="number"/>
+<Field name="Field33" type="number"/>
+<Field name="Field34" type="number"/>
+<Field name="Field35" type="number"/>
+<Field name="Field36" type="number"/>
+<Field name="Field37" type="number"/>
+<Field name="Field38" type="number"/>
+<Field name="Field39" type="number"/>
+<Field name="Field40" type="number"/>
+<Field name="Field41" type="number"/>
+<Field name="Field42" type="number"/>
+<Field name="Field43" type="number"/>
+<Field name="Field44" type="number"/>
+<Field name="Field45" type="number"/>
+<Field name="Field46" type="number"/>
+<Field name="Field47" type="number"/>
+<Field name="Field48" type="number"/>
+<Field name="Field49" type="number"/>
+<Field name="Field50" type="number"/>
+<Field name="Field51" type="number"/>
+<Field name="Field52" type="number"/>
+<Field name="Field53" type="number"/>
+<Field name="Field54" type="number"/>
+<Field name="Field55" type="number"/>
+<Field name="Field56" type="number"/>
+<Field name="Field57" type="number"/>
+<Field name="Field58" type="number"/>
+<Field name="Field59" type="number"/>
+<Field name="Field60" type="number"/>
+<Field name="Field61" type="number"/>
+<Field name="Field62" type="number"/>
+<Field name="Field63" type="number"/>
+<Field name="Field64" type="number"/>
+<Field name="Field65" type="number"/>
+<Field name="Field66" type="number"/>
+<Field name="Field67" type="number"/>
+<Field name="Field68" type="number"/>
+<Field name="Field69" type="number"/>
+<Field name="Field70" type="number"/>
+<Field name="Field71" type="number"/>
+<Field name="Field72" type="number"/>
+<Field name="Field73" type="number"/>
+<Field name="Field74" type="number"/>
+<Field name="Field75" type="number"/>
+<Field name="Field76" type="number"/>
+<Field name="Field77" type="number"/>
+<Field name="Field78" type="number"/>
+<Field name="Field79" type="number"/>
+<Field name="Field80" type="number"/>
+<Field name="Field81" type="number"/>
+<Field name="Field82" type="number"/>
+<Field name="Field83" type="number"/>
+<Field name="Field84" type="number"/>
+<Field name="Field85" type="number"/>
+<Field name="Field86" type="number"/>
+<Field name="Field87" type="number"/>
+<Field name="Field88" type="number"/>
+<Field name="Field89" type="number"/>
+<Field name="Field90" type="number"/>
+<Field name="Field91" type="number"/>
+<Field name="Field92" type="number"/>
+<Field name="Field93" type="number"/>
+<Field name="Field94" type="number"/>
+<Field name="Field95" type="number"/>
+<Field name="Field96" type="number"/>
+<Field name="Field97" type="number"/>
+<Field name="Field98" type="number"/>
+<Field name="Field99" type="number"/>
+<Field name="Field100" type="number"/>
+<Field name="Field101" type="number"/>
+<Field name="Field102" type="number"/>
+<Field name="Field103" type="number"/>
+<Field name="Field104" type="number"/>
+<Field name="Field105" type="number"/>
+<Field name="Field106" type="number"/>
+<Field name="Field107" type="number"/>
+<Field name="Field108" type="number"/>
+<Field name="Field109" type="number"/>
+<Field name="Field110" type="number"/>
+<Field name="Field111" type="number"/>
+<Field name="Field112" type="number"/>
+<Field name="Field113" type="number"/>
+<Field name="Field114" type="number"/>
+<Field name="Field115" type="number"/>
+<Field name="Field116" type="number"/>
+<Field name="Field117" type="number"/>
+<Field name="Field118" type="number"/>
+<Field name="Field119" type="number"/>
+<Field name="Field120" type="number"/>
+<Field name="Field121" type="number"/>
+<Field name="Field122" type="number"/>
+<Field name="Field123" type="number"/>
+<Field name="Field124" type="number"/>
+<Field name="Field125" type="number"/>
+<Field name="Field126" type="number"/>
+<Field name="Field127" type="number"/>
+<Field name="Field128" type="number"/>
+<Field name="Field129" type="number"/>
+<Field name="Field130" type="number"/>
+<Field name="Field131" type="number"/>
+<Field name="Field132" type="number"/>
+<Field name="Field133" type="number"/>
+<Field name="Field134" type="number"/>
+<Field name="Field135" type="number"/>
+<Field name="Field136" type="number"/>
+<Field name="Field137" type="number"/>
+<Field name="Field138" type="number"/>
+<Field name="Field139" type="number"/>
+<Field name="Field140" type="number"/>
+<Field name="Field141" type="number"/>
+<Field name="Field142" type="number"/>
+<Field name="Field143" type="number"/>
+<Field name="Field144" type="number"/>
+<Field name="Field145" type="number"/>
+<Field name="Field146" type="number"/>
+<Field name="Field147" type="number"/>
+<Field name="Field148" type="number"/>
+<Field name="Field149" type="number"/>
+<Field name="Field150" type="number"/>
+<Field name="Field151" type="number"/>
+<Field name="Field152" type="number"/>
+<Field name="Field153" type="number"/>
+<Field name="Field154" type="number"/>
+<Field name="Field155" type="number"/>
+<Field name="Field156" type="number"/>
+<Field name="Field157" type="number"/>
+<Field name="Field158" type="number"/>
+<Field name="Field159" type="number"/>
+<Field name="Field160" type="number"/>
+<Field name="Field161" type="number"/>
+<Field name="Field162" type="number"/>
+<Field name="Field163" type="number"/>
+<Field name="Field164" type="number"/>
+<Field name="Field165" type="number"/>
+<Field name="Field166" type="number"/>
+<Field eofAsDelimiter="true" name="Field167" type="number"/>
+</Record>
+</Metadata>
+<Metadata id="Metadata8">
+<Record fieldDelimiter="|" name="data1" previewAttachment="${DATAOUT_DIR}/data1.csv" previewAttachmentCharset="UTF-8" quoteChar="both" quotedStrings="false" recordDelimiter="\n" skipSourceRows="0" type="delimited">
+<Field name="Field1" type="integer"/>
+<Field name="Field2" type="string"/>
+<Field name="Field3" type="string"/>
+<Field name="Field4" type="string"/>
+<Field name="Field5" type="boolean"/>
+<Field name="Field6" type="string"/>
+<Field name="Field7" type="string"/>
+<Field name="Field8" type="string"/>
+<Field name="Field9" type="string"/>
+<Field name="Field10" type="string"/>
+<Field name="Field11" type="integer"/>
+<Field name="Field12" type="number"/>
+<Field name="Field13" type="number"/>
+<Field name="Field14" type="string"/>
+<Field name="Field15" type="string"/>
+<Field name="Field16" type="integer"/>
+<Field name="Field17" type="integer"/>
+<Field name="Field18" type="integer"/>
+<Field name="Field19" scale="1" type="decimal"/>
+<Field name="Field20" scale="1" type="decimal"/>
+<Field name="Field21" type="boolean"/>
+<Field name="Field22" type="integer"/>
+<Field name="Field23" type="string"/>
+<Field name="Field24" type="integer"/>
+<Field name="Field25" type="string"/>
+<Field name="Field26" type="number"/>
+<Field name="Field27" type="number"/>
+<Field name="Field28" type="number"/>
+<Field name="Field29" type="number"/>
+<Field name="Field30" type="number"/>
+<Field name="Field31" type="number"/>
+<Field name="Field32" type="number"/>
+<Field name="Field33" type="number"/>
+<Field name="Field34" type="number"/>
+<Field name="Field35" type="number"/>
+<Field name="Field36" type="number"/>
+<Field name="Field37" type="number"/>
+<Field name="Field38" type="number"/>
+<Field name="Field39" type="number"/>
+<Field name="Field40" type="number"/>
+<Field name="Field41" type="number"/>
+<Field name="Field42" type="number"/>
+<Field name="Field43" type="number"/>
+<Field name="Field44" type="number"/>
+<Field name="Field45" type="number"/>
+<Field name="Field46" type="number"/>
+<Field name="Field47" type="number"/>
+<Field name="Field48" type="number"/>
+<Field name="Field49" type="number"/>
+<Field name="Field50" type="number"/>
+<Field name="Field51" type="number"/>
+<Field name="Field52" type="number"/>
+<Field name="Field53" type="number"/>
+<Field name="Field54" type="number"/>
+<Field name="Field55" type="number"/>
+<Field name="Field56" type="number"/>
+<Field name="Field57" type="number"/>
+<Field name="Field58" type="number"/>
+<Field name="Field59" type="number"/>
+<Field name="Field60" type="number"/>
+<Field name="Field61" type="number"/>
+<Field name="Field62" type="number"/>
+<Field name="Field63" type="number"/>
+<Field name="Field64" type="number"/>
+<Field name="Field65" type="number"/>
+<Field name="Field66" type="number"/>
+<Field name="Field67" type="number"/>
+<Field name="Field68" type="number"/>
+<Field name="Field69" type="number"/>
+<Field name="Field70" type="number"/>
+<Field name="Field71" type="number"/>
+<Field name="Field72" type="number"/>
+<Field name="Field73" type="number"/>
+<Field name="Field74" type="number"/>
+<Field name="Field75" type="number"/>
+<Field name="Field76" type="number"/>
+<Field name="Field77" type="number"/>
+<Field name="Field78" type="number"/>
+<Field name="Field79" type="number"/>
+<Field name="Field80" type="number"/>
+<Field name="Field81" type="number"/>
+<Field name="Field82" type="number"/>
+<Field name="Field83" type="number"/>
+<Field name="Field84" type="number"/>
+<Field name="Field85" type="number"/>
+<Field name="Field86" type="number"/>
+<Field name="Field87" type="number"/>
+<Field name="Field88" type="number"/>
+<Field name="Field89" type="number"/>
+<Field name="Field90" type="number"/>
+<Field name="Field91" type="number"/>
+<Field name="Field92" type="number"/>
+<Field name="Field93" type="number"/>
+<Field name="Field94" type="number"/>
+<Field name="Field95" type="number"/>
+<Field name="Field96" type="number"/>
+<Field name="Field97" type="number"/>
+<Field name="Field98" type="number"/>
+<Field name="Field99" type="number"/>
+<Field name="Field100" type="number"/>
+<Field name="Field101" type="number"/>
+<Field name="Field102" type="number"/>
+<Field name="Field103" type="number"/>
+<Field name="Field104" type="number"/>
+<Field name="Field105" type="number"/>
+<Field name="Field106" type="number"/>
+<Field name="Field107" type="number"/>
+<Field name="Field108" type="number"/>
+<Field name="Field109" type="number"/>
+<Field name="Field110" type="number"/>
+<Field name="Field111" type="number"/>
+<Field name="Field112" type="number"/>
+<Field name="Field113" type="number"/>
+<Field name="Field114" type="number"/>
+<Field name="Field115" type="number"/>
+<Field name="Field116" type="number"/>
+<Field name="Field117" type="number"/>
+<Field name="Field118" type="number"/>
+<Field name="Field119" type="number"/>
+<Field name="Field120" type="number"/>
+<Field name="Field121" type="number"/>
+<Field name="Field122" type="number"/>
+<Field name="Field123" type="number"/>
+<Field name="Field124" type="number"/>
+<Field name="Field125" type="number"/>
+<Field name="Field126" type="number"/>
+<Field name="Field127" type="number"/>
+<Field name="Field128" type="number"/>
+<Field name="Field129" type="number"/>
+<Field name="Field130" type="number"/>
+<Field name="Field131" type="number"/>
+<Field name="Field132" type="number"/>
+<Field name="Field133" type="number"/>
+<Field name="Field134" type="number"/>
+<Field name="Field135" type="number"/>
+<Field name="Field136" type="number"/>
+<Field name="Field137" type="number"/>
+<Field name="Field138" type="number"/>
+<Field name="Field139" type="number"/>
+<Field name="Field140" type="number"/>
+<Field name="Field141" type="number"/>
+<Field name="Field142" type="number"/>
+<Field name="Field143" type="number"/>
+<Field name="Field144" type="number"/>
+<Field name="Field145" type="number"/>
+<Field name="Field146" type="number"/>
+<Field name="Field147" type="number"/>
+<Field name="Field148" type="number"/>
+<Field name="Field149" type="number"/>
+<Field name="Field150" type="number"/>
+<Field name="Field151" type="number"/>
+<Field name="Field152" type="number"/>
+<Field name="Field153" type="number"/>
+<Field name="Field154" type="number"/>
+<Field name="Field155" type="number"/>
+<Field name="Field156" type="number"/>
+<Field name="Field157" type="number"/>
+<Field name="Field158" type="number"/>
+<Field name="Field159" type="number"/>
+<Field name="Field160" type="number"/>
+<Field name="Field161" type="number"/>
+<Field name="Field162" type="number"/>
+<Field name="Field163" type="number"/>
+<Field name="Field164" type="number"/>
+<Field name="Field165" type="number"/>
+<Field name="Field166" type="number"/>
+<Field name="Field167" type="number"/>
+<Field name="Field168" type="number"/>
+<Field name="Field169" type="number"/>
+<Field name="Field170" type="number"/>
+<Field name="Field171" type="number"/>
+<Field name="Field172" type="number"/>
+<Field name="Field173" type="number"/>
+<Field name="Field174" type="number"/>
+<Field name="Field175" type="number"/>
+<Field name="Field176" type="number"/>
+<Field name="Field177" type="number"/>
+<Field name="Field178" type="number"/>
+<Field name="Field179" type="number"/>
+<Field name="Field180" type="number"/>
+<Field name="Field181" type="number"/>
+<Field name="Field182" type="number"/>
+<Field name="Field183" type="number"/>
+<Field name="Field184" type="number"/>
+<Field name="Field185" type="number"/>
+<Field name="Field186" type="number"/>
+<Field name="Field187" type="number"/>
+<Field eofAsDelimiter="true" name="Field188" type="number"/>
+</Record>
+</Metadata>
+<Metadata id="Metadata6">
+<Record fieldDelimiter=";" name="Properties" recordDelimiter="\n" type="delimited">
+<Field name="PropertyId" size="11" type="integer"/>
+<Field name="Title" size="255" type="string"/>
+<Field name="UserName" size="255" type="string"/>
+<Field name="Description" size="16777215" type="string"/>
+<Field name="Transit" size="1" type="boolean"/>
+<Field name="Picture" size="255" type="string"/>
+<Field name="Street" size="255" type="string"/>
+<Field name="Neighborhood" size="255" type="string"/>
+<Field name="City" size="255" type="string"/>
+<Field name="State" size="255" type="string"/>
+<Field name="Zip" size="11" type="integer"/>
+<Field length="8" name="Latitude" scale="5" type="decimal"/>
+<Field length="8" name="Longitude" scale="5" type="decimal"/>
+<Field name="PropertyType" size="255" type="string"/>
+<Field name="RoomType" size="255" type="string"/>
+<Field name="Accommodates" size="11" type="integer"/>
+<Field length="10" name="Bathrooms" scale="0" type="decimal"/>
+<Field name="Bedrooms" size="11" type="integer"/>
+<Field length="7" name="MonthlyPrice" scale="2" type="decimal"/>
+<Field length="7" name="SecurityDeposit" scale="2" type="decimal"/>
+<Field name="Available" size="1" type="boolean"/>
+</Record>
+</Metadata>
+<Metadata id="Metadata9">
+<Record fieldDelimiter="|" name="recordName" previewAttachmentCharset="UTF-8" recordDelimiter="\n" type="delimited">
+<Field name="City" size="255" type="string"/>
+<Field name="Field5" trim="true" type="number"/>
+<Field name="Field6" trim="true" type="number"/>
+<Field name="Field7" trim="true" type="number"/>
+<Field name="Field8" trim="true" type="number"/>
+<Field name="Field9" trim="true" type="number"/>
+<Field name="Field10" trim="true" type="number"/>
+<Field name="Field11" trim="true" type="number"/>
+<Field name="Field12" trim="true" type="number"/>
+<Field name="Field13" trim="true" type="number"/>
+<Field name="Field14" trim="true" type="number"/>
+<Field name="Field15" trim="true" type="number"/>
+<Field name="Field16" trim="true" type="number"/>
+<Field name="Field17" trim="true" type="number"/>
+<Field name="Field18" trim="true" type="number"/>
+<Field name="Field19" trim="true" type="number"/>
+<Field name="Field20" trim="true" type="number"/>
+<Field name="Field21" trim="true" type="number"/>
+<Field name="Field22" trim="true" type="number"/>
+<Field name="Field23" trim="true" type="number"/>
+<Field name="Field24" trim="true" type="number"/>
+<Field name="Field25" trim="true" type="number"/>
+<Field name="Field26" trim="true" type="number"/>
+<Field name="Field27" trim="true" type="number"/>
+<Field name="Field28" trim="true" type="number"/>
+<Field name="Field29" trim="true" type="number"/>
+<Field name="Field30" trim="true" type="number"/>
+<Field name="Field31" trim="true" type="number"/>
+<Field name="Field32" trim="true" type="number"/>
+<Field name="Field33" trim="true" type="number"/>
+<Field name="Field34" trim="true" type="number"/>
+<Field name="Field35" trim="true" type="number"/>
+<Field name="Field36" trim="true" type="number"/>
+<Field name="Field37" trim="true" type="number"/>
+<Field name="Field38" trim="true" type="number"/>
+<Field name="Field39" trim="true" type="number"/>
+<Field name="Field40" trim="true" type="number"/>
+<Field name="Field41" trim="true" type="number"/>
+<Field name="Field42" trim="true" type="number"/>
+<Field name="Field43" trim="true" type="number"/>
+<Field name="Field44" trim="true" type="number"/>
+<Field name="Field45" trim="true" type="number"/>
+<Field name="Field46" trim="true" type="number"/>
+<Field name="Field47" trim="true" type="number"/>
+<Field name="Field48" trim="true" type="number"/>
+<Field name="Field49" trim="true" type="number"/>
+<Field name="Field50" trim="true" type="number"/>
+<Field name="Field51" trim="true" type="number"/>
+<Field name="Field52" trim="true" type="number"/>
+<Field name="Field53" trim="true" type="number"/>
+<Field name="Field54" trim="true" type="number"/>
+<Field name="Field55" trim="true" type="number"/>
+<Field name="Field56" trim="true" type="number"/>
+<Field name="Field57" trim="true" type="number"/>
+<Field name="Field58" trim="true" type="number"/>
+<Field name="Field59" trim="true" type="number"/>
+<Field name="Field60" trim="true" type="number"/>
+<Field name="Field61" trim="true" type="number"/>
+<Field name="Field62" trim="true" type="number"/>
+<Field name="Field63" trim="true" type="number"/>
+<Field name="Field64" trim="true" type="number"/>
+<Field name="Field65" trim="true" type="number"/>
+<Field name="Field66" trim="true" type="number"/>
+<Field name="Field67" trim="true" type="number"/>
+<Field name="Field68" trim="true" type="number"/>
+<Field name="Field69" trim="true" type="number"/>
+<Field name="Field70" trim="true" type="number"/>
+<Field name="Field71" trim="true" type="number"/>
+<Field name="Field72" trim="true" type="number"/>
+<Field name="Field73" trim="true" type="number"/>
+<Field name="Field74" trim="true" type="number"/>
+<Field name="Field75" trim="true" type="number"/>
+<Field name="Field76" trim="true" type="number"/>
+<Field name="Field77" trim="true" type="number"/>
+<Field name="Field78" trim="true" type="number"/>
+<Field name="Field79" trim="true" type="number"/>
+<Field name="Field80" trim="true" type="number"/>
+<Field name="Field81" trim="true" type="number"/>
+<Field name="Field82" trim="true" type="number"/>
+<Field name="Field83" trim="true" type="number"/>
+<Field name="Field84" trim="true" type="number"/>
+<Field name="Field85" trim="true" type="number"/>
+<Field name="Field86" trim="true" type="number"/>
+<Field name="Field87" trim="true" type="number"/>
+<Field name="Field88" trim="true" type="number"/>
+<Field name="Field89" trim="true" type="number"/>
+<Field name="Field90" trim="true" type="number"/>
+<Field name="Field91" trim="true" type="number"/>
+<Field name="Field92" trim="true" type="number"/>
+<Field name="Field93" trim="true" type="number"/>
+<Field name="Field94" trim="true" type="number"/>
+<Field name="Field95" trim="true" type="number"/>
+<Field name="Field96" trim="true" type="number"/>
+<Field name="Field97" trim="true" type="number"/>
+<Field name="Field98" trim="true" type="number"/>
+<Field name="Field99" trim="true" type="number"/>
+<Field name="Field100" trim="true" type="number"/>
+<Field name="Field101" trim="true" type="number"/>
+<Field name="Field102" trim="true" type="number"/>
+<Field name="Field103" trim="true" type="number"/>
+<Field name="Field104" trim="true" type="number"/>
+<Field name="Field105" trim="true" type="number"/>
+<Field name="Field106" trim="true" type="number"/>
+<Field name="Field107" trim="true" type="number"/>
+<Field name="Field108" trim="true" type="number"/>
+<Field name="Field109" trim="true" type="number"/>
+<Field name="Field110" trim="true" type="number"/>
+<Field name="Field111" trim="true" type="number"/>
+<Field name="Field112" trim="true" type="number"/>
+<Field name="Field113" trim="true" type="number"/>
+<Field name="Field114" trim="true" type="number"/>
+<Field name="Field115" trim="true" type="number"/>
+<Field name="Field116" trim="true" type="number"/>
+<Field name="Field117" trim="true" type="number"/>
+<Field name="Field118" trim="true" type="number"/>
+<Field name="Field119" trim="true" type="number"/>
+<Field name="Field120" trim="true" type="number"/>
+<Field name="Field121" trim="true" type="number"/>
+<Field name="Field122" trim="true" type="number"/>
+<Field name="Field123" trim="true" type="number"/>
+<Field name="Field124" trim="true" type="number"/>
+<Field name="Field125" trim="true" type="number"/>
+<Field name="Field126" trim="true" type="number"/>
+<Field name="Field127" trim="true" type="number"/>
+<Field name="Field128" trim="true" type="number"/>
+<Field name="Field129" trim="true" type="number"/>
+<Field name="Field130" trim="true" type="number"/>
+<Field name="Field131" trim="true" type="number"/>
+<Field name="Field132" trim="true" type="number"/>
+<Field name="Field133" trim="true" type="number"/>
+<Field name="Field134" trim="true" type="number"/>
+<Field name="Field135" trim="true" type="number"/>
+<Field name="Field136" trim="true" type="number"/>
+<Field name="Field137" trim="true" type="number"/>
+<Field name="Field138" trim="true" type="number"/>
+<Field name="Field139" trim="true" type="number"/>
+<Field name="Field140" trim="true" type="number"/>
+<Field name="Field141" trim="true" type="number"/>
+<Field name="Field142" trim="true" type="number"/>
+<Field name="Field143" trim="true" type="number"/>
+<Field name="Field144" trim="true" type="number"/>
+<Field name="Field145" trim="true" type="number"/>
+<Field name="Field146" trim="true" type="number"/>
+<Field name="Field147" trim="true" type="number"/>
+<Field name="Field148" trim="true" type="number"/>
+<Field name="Field149" trim="true" type="number"/>
+<Field name="Field150" trim="true" type="number"/>
+<Field name="Field151" trim="true" type="number"/>
+<Field name="Field152" trim="true" type="number"/>
+<Field name="Field153" trim="true" type="number"/>
+<Field name="Field154" trim="true" type="number"/>
+<Field name="Field155" trim="true" type="number"/>
+<Field name="Field156" trim="true" type="number"/>
+<Field name="Field157" trim="true" type="number"/>
+<Field name="Field158" trim="true" type="number"/>
+<Field name="Field159" trim="true" type="number"/>
+<Field name="Field160" trim="true" type="number"/>
+<Field name="Field161" trim="true" type="number"/>
+<Field name="Field162" trim="true" type="number"/>
+<Field name="Field163" trim="true" type="number"/>
+<Field name="Field164" trim="true" type="number"/>
+<Field name="Field165" trim="true" type="number"/>
+<Field name="Field166" trim="true" type="number"/>
+<Field eofAsDelimiter="true" name="Field167" trim="true" type="number"/>
+</Record>
+</Metadata>
+<Metadata id="Metadata7">
+<Record fieldDelimiter="|" name="recordName1" recordDelimiter="\n" type="delimited">
+<Field name="PropertyId" size="11" trim="true" type="integer"/>
+<Field name="Title" size="255" type="string"/>
+<Field name="UserName" size="255" type="string"/>
+<Field name="Description" size="16777215" type="string"/>
+<Field name="Transit" size="1" trim="true" type="boolean"/>
+<Field name="Picture" size="255" type="string"/>
+<Field name="Street" size="255" type="string"/>
+<Field name="Neighborhood" size="255" type="string"/>
+<Field name="City" size="255" type="string"/>
+<Field name="State" size="255" type="string"/>
+<Field name="Zip" size="11" trim="true" type="integer"/>
+<Field length="8" name="Latitude" scale="5" trim="true" type="decimal"/>
+<Field length="8" name="Longitude" scale="5" trim="true" type="decimal"/>
+<Field name="PropertyType" size="255" type="string"/>
+<Field name="RoomType" size="255" type="string"/>
+<Field name="Accommodates" size="11" trim="true" type="integer"/>
+<Field length="10" name="Bathrooms" scale="0" trim="true" type="decimal"/>
+<Field name="Bedrooms" size="11" trim="true" type="integer"/>
+<Field length="7" name="MonthlyPrice" scale="2" trim="true" type="decimal"/>
+<Field length="7" name="SecurityDeposit" scale="2" trim="true" type="decimal"/>
+<Field name="Available" size="1" trim="true" type="boolean"/>
+<Field name="Field1" trim="true" type="integer"/>
+<Field name="Field2" type="string"/>
+<Field name="Field3" trim="true" type="integer"/>
+<Field name="Field4" type="string"/>
+<Field name="Field5" trim="true" type="number"/>
+<Field name="Field6" trim="true" type="number"/>
+<Field name="Field7" trim="true" type="number"/>
+<Field name="Field8" trim="true" type="number"/>
+<Field name="Field9" trim="true" type="number"/>
+<Field name="Field10" trim="true" type="number"/>
+<Field name="Field11" trim="true" type="number"/>
+<Field name="Field12" trim="true" type="number"/>
+<Field name="Field13" trim="true" type="number"/>
+<Field name="Field14" trim="true" type="number"/>
+<Field name="Field15" trim="true" type="number"/>
+<Field name="Field16" trim="true" type="number"/>
+<Field name="Field17" trim="true" type="number"/>
+<Field name="Field18" trim="true" type="number"/>
+<Field name="Field19" trim="true" type="number"/>
+<Field name="Field20" trim="true" type="number"/>
+<Field name="Field21" trim="true" type="number"/>
+<Field name="Field22" trim="true" type="number"/>
+<Field name="Field23" trim="true" type="number"/>
+<Field name="Field24" trim="true" type="number"/>
+<Field name="Field25" trim="true" type="number"/>
+<Field name="Field26" trim="true" type="number"/>
+<Field name="Field27" trim="true" type="number"/>
+<Field name="Field28" trim="true" type="number"/>
+<Field name="Field29" trim="true" type="number"/>
+<Field name="Field30" trim="true" type="number"/>
+<Field name="Field31" trim="true" type="number"/>
+<Field name="Field32" trim="true" type="number"/>
+<Field name="Field33" trim="true" type="number"/>
+<Field name="Field34" trim="true" type="number"/>
+<Field name="Field35" trim="true" type="number"/>
+<Field name="Field36" trim="true" type="number"/>
+<Field name="Field37" trim="true" type="number"/>
+<Field name="Field38" trim="true" type="number"/>
+<Field name="Field39" trim="true" type="number"/>
+<Field name="Field40" trim="true" type="number"/>
+<Field name="Field41" trim="true" type="number"/>
+<Field name="Field42" trim="true" type="number"/>
+<Field name="Field43" trim="true" type="number"/>
+<Field name="Field44" trim="true" type="number"/>
+<Field name="Field45" trim="true" type="number"/>
+<Field name="Field46" trim="true" type="number"/>
+<Field name="Field47" trim="true" type="number"/>
+<Field name="Field48" trim="true" type="number"/>
+<Field name="Field49" trim="true" type="number"/>
+<Field name="Field50" trim="true" type="number"/>
+<Field name="Field51" trim="true" type="number"/>
+<Field name="Field52" trim="true" type="number"/>
+<Field name="Field53" trim="true" type="number"/>
+<Field name="Field54" trim="true" type="number"/>
+<Field name="Field55" trim="true" type="number"/>
+<Field name="Field56" trim="true" type="number"/>
+<Field name="Field57" trim="true" type="number"/>
+<Field name="Field58" trim="true" type="number"/>
+<Field name="Field59" trim="true" type="number"/>
+<Field name="Field60" trim="true" type="number"/>
+<Field name="Field61" trim="true" type="number"/>
+<Field name="Field62" trim="true" type="number"/>
+<Field name="Field63" trim="true" type="number"/>
+<Field name="Field64" trim="true" type="number"/>
+<Field name="Field65" trim="true" type="number"/>
+<Field name="Field66" trim="true" type="number"/>
+<Field name="Field67" trim="true" type="number"/>
+<Field name="Field68" trim="true" type="number"/>
+<Field name="Field69" trim="true" type="number"/>
+<Field name="Field70" trim="true" type="number"/>
+<Field name="Field71" trim="true" type="number"/>
+<Field name="Field72" trim="true" type="number"/>
+<Field name="Field73" trim="true" type="number"/>
+<Field name="Field74" trim="true" type="number"/>
+<Field name="Field75" trim="true" type="number"/>
+<Field name="Field76" trim="true" type="number"/>
+<Field name="Field77" trim="true" type="number"/>
+<Field name="Field78" trim="true" type="number"/>
+<Field name="Field79" trim="true" type="number"/>
+<Field name="Field80" trim="true" type="number"/>
+<Field name="Field81" trim="true" type="number"/>
+<Field name="Field82" trim="true" type="number"/>
+<Field name="Field83" trim="true" type="number"/>
+<Field name="Field84" trim="true" type="number"/>
+<Field name="Field85" trim="true" type="number"/>
+<Field name="Field86" trim="true" type="number"/>
+<Field name="Field87" trim="true" type="number"/>
+<Field name="Field88" trim="true" type="number"/>
+<Field name="Field89" trim="true" type="number"/>
+<Field name="Field90" trim="true" type="number"/>
+<Field name="Field91" trim="true" type="number"/>
+<Field name="Field92" trim="true" type="number"/>
+<Field name="Field93" trim="true" type="number"/>
+<Field name="Field94" trim="true" type="number"/>
+<Field name="Field95" trim="true" type="number"/>
+<Field name="Field96" trim="true" type="number"/>
+<Field name="Field97" trim="true" type="number"/>
+<Field name="Field98" trim="true" type="number"/>
+<Field name="Field99" trim="true" type="number"/>
+<Field name="Field100" trim="true" type="number"/>
+<Field name="Field101" trim="true" type="number"/>
+<Field name="Field102" trim="true" type="number"/>
+<Field name="Field103" trim="true" type="number"/>
+<Field name="Field104" trim="true" type="number"/>
+<Field name="Field105" trim="true" type="number"/>
+<Field name="Field106" trim="true" type="number"/>
+<Field name="Field107" trim="true" type="number"/>
+<Field name="Field108" trim="true" type="number"/>
+<Field name="Field109" trim="true" type="number"/>
+<Field name="Field110" trim="true" type="number"/>
+<Field name="Field111" trim="true" type="number"/>
+<Field name="Field112" trim="true" type="number"/>
+<Field name="Field113" trim="true" type="number"/>
+<Field name="Field114" trim="true" type="number"/>
+<Field name="Field115" trim="true" type="number"/>
+<Field name="Field116" trim="true" type="number"/>
+<Field name="Field117" trim="true" type="number"/>
+<Field name="Field118" trim="true" type="number"/>
+<Field name="Field119" trim="true" type="number"/>
+<Field name="Field120" trim="true" type="number"/>
+<Field name="Field121" trim="true" type="number"/>
+<Field name="Field122" trim="true" type="number"/>
+<Field name="Field123" trim="true" type="number"/>
+<Field name="Field124" trim="true" type="number"/>
+<Field name="Field125" trim="true" type="number"/>
+<Field name="Field126" trim="true" type="number"/>
+<Field name="Field127" trim="true" type="number"/>
+<Field name="Field128" trim="true" type="number"/>
+<Field name="Field129" trim="true" type="number"/>
+<Field name="Field130" trim="true" type="number"/>
+<Field name="Field131" trim="true" type="number"/>
+<Field name="Field132" trim="true" type="number"/>
+<Field name="Field133" trim="true" type="number"/>
+<Field name="Field134" trim="true" type="number"/>
+<Field name="Field135" trim="true" type="number"/>
+<Field name="Field136" trim="true" type="number"/>
+<Field name="Field137" trim="true" type="number"/>
+<Field name="Field138" trim="true" type="number"/>
+<Field name="Field139" trim="true" type="number"/>
+<Field name="Field140" trim="true" type="number"/>
+<Field name="Field141" trim="true" type="number"/>
+<Field name="Field142" trim="true" type="number"/>
+<Field name="Field143" trim="true" type="number"/>
+<Field name="Field144" trim="true" type="number"/>
+<Field name="Field145" trim="true" type="number"/>
+<Field name="Field146" trim="true" type="number"/>
+<Field name="Field147" trim="true" type="number"/>
+<Field name="Field148" trim="true" type="number"/>
+<Field name="Field149" trim="true" type="number"/>
+<Field name="Field150" trim="true" type="number"/>
+<Field name="Field151" trim="true" type="number"/>
+<Field name="Field152" trim="true" type="number"/>
+<Field name="Field153" trim="true" type="number"/>
+<Field name="Field154" trim="true" type="number"/>
+<Field name="Field155" trim="true" type="number"/>
+<Field name="Field156" trim="true" type="number"/>
+<Field name="Field157" trim="true" type="number"/>
+<Field name="Field158" trim="true" type="number"/>
+<Field name="Field159" trim="true" type="number"/>
+<Field name="Field160" trim="true" type="number"/>
+<Field name="Field161" trim="true" type="number"/>
+<Field name="Field162" trim="true" type="number"/>
+<Field name="Field163" trim="true" type="number"/>
+<Field name="Field164" trim="true" type="number"/>
+<Field name="Field165" trim="true" type="number"/>
+<Field name="Field166" trim="true" type="number"/>
+<Field eofAsDelimiter="true" name="Field167" trim="true" type="number"/>
+</Record>
+</Metadata>
+<Metadata id="Metadata1">
+<Record fieldDelimiter="," name="seattle" previewAttachment="${DATAIN_DIR}/seattle.csv" previewAttachmentCharset="UTF-8" quoteChar="both" quotedStrings="true" recordDelimiter="\n" skipSourceRows="1" type="delimited">
+<Field name="name" type="string"/>
+<Field name="description" type="string"/>
+<Field name="picture_url" type="string"/>
+<Field name="street" type="string"/>
+<Field name="neighbourhood" type="string"/>
+<Field name="city" type="string"/>
+<Field name="state" type="string"/>
+<Field name="zipcode" type="integer"/>
+<Field name="latitude" type="number"/>
+<Field name="longitude" type="number"/>
+<Field name="property_type" type="string"/>
+<Field name="room_type" type="string"/>
+<Field name="accommodates" type="integer"/>
+<Field name="bathrooms" scale="1" type="decimal"/>
+<Field name="bedrooms" type="integer"/>
+<Field name="monthly_price" type="string"/>
+<Field name="security_deposit" type="string"/>
+</Record>
+</Metadata>
+<Metadata id="Metadata2">
+<Record fieldDelimiter="," name="seattle" previewAttachment="${DATAIN_DIR}/seattle.csv" previewAttachmentCharset="UTF-8" quoteChar="both" quotedStrings="true" recordDelimiter="\n" skipSourceRows="1" type="delimited">
+<Field name="name" type="string"/>
+<Field name="description" type="string"/>
+<Field name="picture_url" type="string"/>
+<Field name="street" type="string"/>
+<Field name="neighbourhood" type="string"/>
+<Field name="city" type="string"/>
+<Field name="state" type="string"/>
+<Field name="zipcode" type="integer"/>
+<Field name="latitude" type="number"/>
+<Field name="longitude" type="number"/>
+<Field name="property_type" type="string"/>
+<Field name="room_type" type="string"/>
+<Field name="accommodates" type="integer"/>
+<Field name="bathrooms" scale="1" type="decimal"/>
+<Field name="bedrooms" type="integer"/>
+<Field name="monthly_price" type="string"/>
+<Field name="security_deposit" type="string"/>
+</Record>
+</Metadata>
+<Metadata id="Metadata3">
+<Record fieldDelimiter="," name="seattle" previewAttachment="${DATAIN_DIR}/seattle.csv" previewAttachmentCharset="UTF-8" quoteChar="both" quotedStrings="true" recordDelimiter="\n" skipSourceRows="1" type="delimited">
+<Field name="id" type="integer"/>
+<Field name="listing_url" type="string"/>
+<Field name="scrape_id" type="long"/>
+<Field format="yyyy-MM-dd" name="last_scraped" type="date"/>
+<Field name="name" type="string"/>
+<Field name="summary" type="string"/>
+<Field name="space" type="string"/>
+<Field name="description" type="string"/>
+<Field name="experiences_offered" type="string"/>
+<Field name="neighborhood_overview" type="string"/>
+<Field name="notes" type="string"/>
+<Field name="transit" type="string"/>
+<Field name="access" type="string"/>
+<Field name="interaction" type="string"/>
+<Field name="house_rules" type="string"/>
+<Field name="thumbnail_url" type="string"/>
+<Field name="medium_url" type="string"/>
+<Field name="picture_url" type="string"/>
+<Field name="xl_picture_url" type="string"/>
+<Field name="host_id" type="integer"/>
+<Field name="host_url" type="string"/>
+<Field name="host_name" type="string"/>
+<Field format="yyyy-MM-dd" name="host_since" type="date"/>
+<Field name="host_location" type="string"/>
+<Field name="host_about" type="string"/>
+<Field name="host_response_time" type="string"/>
+<Field name="host_response_rate" type="string"/>
+<Field name="host_acceptance_rate" type="string"/>
+<Field name="host_is_superhost" type="string"/>
+<Field name="host_thumbnail_url" type="string"/>
+<Field name="host_picture_url" type="string"/>
+<Field name="host_neighbourhood" type="string"/>
+<Field name="host_listings_count" type="integer"/>
+<Field name="host_total_listings_count" type="integer"/>
+<Field name="host_verifications" type="string"/>
+<Field name="host_has_profile_pic" type="string"/>
+<Field name="host_identity_verified" type="string"/>
+<Field name="street" type="string"/>
+<Field name="neighbourhood" type="string"/>
+<Field name="neighbourhood_cleansed" type="string"/>
+<Field name="neighbourhood_group_cleansed" type="string"/>
+<Field name="city" type="string"/>
+<Field name="state" type="string"/>
+<Field name="zipcode" type="integer"/>
+<Field name="market" type="string"/>
+<Field name="smart_location" type="string"/>
+<Field name="country_code" type="string"/>
+<Field name="country" type="string"/>
+<Field name="latitude" type="number"/>
+<Field name="longitude" type="number"/>
+<Field name="is_location_exact" type="string"/>
+<Field name="property_type" type="string"/>
+<Field name="room_type" type="string"/>
+<Field name="accommodates" type="integer"/>
+<Field name="bathrooms" scale="1" type="decimal"/>
+<Field name="bedrooms" type="integer"/>
+<Field name="beds" type="integer"/>
+<Field name="bed_type" type="string"/>
+<Field name="amenities" type="string"/>
+<Field name="square_feet" type="string"/>
+<Field name="price" type="string"/>
+<Field name="weekly_price" type="string"/>
+<Field name="monthly_price" type="string"/>
+<Field name="security_deposit" type="string"/>
+<Field name="cleaning_fee" type="string"/>
+<Field name="guests_included" type="integer"/>
+<Field name="extra_people" type="string"/>
+<Field name="minimum_nights" type="integer"/>
+<Field name="maximum_nights" type="integer"/>
+<Field name="minimum_minimum_nights" type="integer"/>
+<Field name="maximum_minimum_nights" type="integer"/>
+<Field name="minimum_maximum_nights" type="integer"/>
+<Field name="maximum_maximum_nights" type="integer"/>
+<Field name="minimum_nights_avg_ntm" scale="1" type="decimal"/>
+<Field name="maximum_nights_avg_ntm" scale="1" type="decimal"/>
+<Field name="calendar_updated" type="string"/>
+<Field name="has_availability" type="string"/>
+<Field name="availability_30" type="integer"/>
+<Field name="availability_60" type="integer"/>
+<Field name="availability_90" type="integer"/>
+<Field name="availability_365" type="integer"/>
+<Field format="yyyy-MM-dd" name="calendar_last_scraped" type="date"/>
+<Field name="number_of_reviews" type="integer"/>
+<Field name="number_of_reviews_ltm" type="integer"/>
+<Field format="yyyy-MM-dd" name="first_review" type="date"/>
+<Field format="yyyy-MM-dd" name="last_review" type="date"/>
+<Field name="review_scores_rating" type="integer"/>
+<Field name="review_scores_accuracy" type="integer"/>
+<Field name="review_scores_cleanliness" type="integer"/>
+<Field name="review_scores_checkin" type="integer"/>
+<Field name="review_scores_communication" type="integer"/>
+<Field name="review_scores_location" type="integer"/>
+<Field name="review_scores_value" type="integer"/>
+<Field name="requires_license" type="string"/>
+<Field name="license" type="string"/>
+<Field name="jurisdiction_names" type="string"/>
+<Field name="instant_bookable" type="string"/>
+<Field name="is_business_travel_ready" type="string"/>
+<Field name="cancellation_policy" type="string"/>
+<Field name="require_guest_profile_picture" type="string"/>
+<Field name="require_guest_phone_verification" type="string"/>
+<Field name="calculated_host_listings_count" type="integer"/>
+<Field name="calculated_host_listings_count_entire_homes" type="integer"/>
+<Field name="calculated_host_listings_count_private_rooms" type="integer"/>
+<Field name="calculated_host_listings_count_shared_rooms" type="integer"/>
+<Field eofAsDelimiter="true" name="reviews_per_month" scale="1" type="decimal"/>
+</Record>
+</Metadata>
+<Metadata id="Metadata4">
+<Record fieldDelimiter="," name="seattle" previewAttachment="${DATAIN_DIR}/seattle.csv" previewAttachmentCharset="UTF-8" quoteChar="both" quotedStrings="true" recordDelimiter="\n" skipSourceRows="1" type="delimited">
+<Field name="id" type="integer"/>
+<Field name="listing_url" type="string"/>
+<Field name="scrape_id" type="long"/>
+<Field format="yyyy-MM-dd" name="last_scraped" type="date"/>
+<Field name="name" type="string"/>
+<Field name="summary" type="string"/>
+<Field name="space" type="string"/>
+<Field name="description" type="string"/>
+<Field name="experiences_offered" type="string"/>
+<Field name="neighborhood_overview" type="string"/>
+<Field name="notes" type="string"/>
+<Field name="transit" type="string"/>
+<Field name="access" type="string"/>
+<Field name="interaction" type="string"/>
+<Field name="house_rules" type="string"/>
+<Field name="thumbnail_url" type="string"/>
+<Field name="medium_url" type="string"/>
+<Field name="picture_url" type="string"/>
+<Field name="xl_picture_url" type="string"/>
+<Field name="host_id" type="integer"/>
+<Field name="host_url" type="string"/>
+<Field name="host_name" type="string"/>
+<Field format="yyyy-MM-dd" name="host_since" type="date"/>
+<Field name="host_location" type="string"/>
+<Field name="host_about" type="string"/>
+<Field name="host_response_time" type="string"/>
+<Field name="host_response_rate" type="string"/>
+<Field name="host_acceptance_rate" type="string"/>
+<Field name="host_is_superhost" type="string"/>
+<Field name="host_thumbnail_url" type="string"/>
+<Field name="host_picture_url" type="string"/>
+<Field name="host_neighbourhood" type="string"/>
+<Field name="host_listings_count" type="integer"/>
+<Field name="host_total_listings_count" type="integer"/>
+<Field name="host_verifications" type="string"/>
+<Field name="host_has_profile_pic" type="string"/>
+<Field name="host_identity_verified" type="string"/>
+<Field name="street" type="string"/>
+<Field name="neighbourhood" type="string"/>
+<Field name="neighbourhood_cleansed" type="string"/>
+<Field name="neighbourhood_group_cleansed" type="string"/>
+<Field name="city" type="string"/>
+<Field name="state" type="string"/>
+<Field name="zipcode" type="integer"/>
+<Field name="market" type="string"/>
+<Field name="smart_location" type="string"/>
+<Field name="country_code" type="string"/>
+<Field name="country" type="string"/>
+<Field name="latitude" type="number"/>
+<Field name="longitude" type="number"/>
+<Field name="is_location_exact" type="string"/>
+<Field name="property_type" type="string"/>
+<Field name="room_type" type="string"/>
+<Field name="accommodates" type="integer"/>
+<Field name="bathrooms" scale="1" type="decimal"/>
+<Field name="bedrooms" type="integer"/>
+<Field name="beds" type="integer"/>
+<Field name="bed_type" type="string"/>
+<Field name="amenities" type="string"/>
+<Field name="square_feet" type="string"/>
+<Field name="price" type="string"/>
+<Field name="weekly_price" type="string"/>
+<Field name="monthly_price" type="string"/>
+<Field name="security_deposit" type="string"/>
+<Field name="cleaning_fee" type="string"/>
+<Field name="guests_included" type="integer"/>
+<Field name="extra_people" type="string"/>
+<Field name="minimum_nights" type="integer"/>
+<Field name="maximum_nights" type="integer"/>
+<Field name="minimum_minimum_nights" type="integer"/>
+<Field name="maximum_minimum_nights" type="integer"/>
+<Field name="minimum_maximum_nights" type="integer"/>
+<Field name="maximum_maximum_nights" type="integer"/>
+<Field name="minimum_nights_avg_ntm" scale="1" type="decimal"/>
+<Field name="maximum_nights_avg_ntm" scale="1" type="decimal"/>
+<Field name="calendar_updated" type="string"/>
+<Field name="has_availability" type="string"/>
+<Field name="availability_30" type="integer"/>
+<Field name="availability_60" type="integer"/>
+<Field name="availability_90" type="integer"/>
+<Field name="availability_365" type="integer"/>
+<Field format="yyyy-MM-dd" name="calendar_last_scraped" type="date"/>
+<Field name="number_of_reviews" type="integer"/>
+<Field name="number_of_reviews_ltm" type="integer"/>
+<Field format="yyyy-MM-dd" name="first_review" type="date"/>
+<Field format="yyyy-MM-dd" name="last_review" type="date"/>
+<Field name="review_scores_rating" type="integer"/>
+<Field name="review_scores_accuracy" type="integer"/>
+<Field name="review_scores_cleanliness" type="integer"/>
+<Field name="review_scores_checkin" type="integer"/>
+<Field name="review_scores_communication" type="integer"/>
+<Field name="review_scores_location" type="integer"/>
+<Field name="review_scores_value" type="integer"/>
+<Field name="requires_license" type="string"/>
+<Field name="license" type="string"/>
+<Field name="jurisdiction_names" type="string"/>
+<Field name="instant_bookable" type="string"/>
+<Field name="is_business_travel_ready" type="string"/>
+<Field name="cancellation_policy" type="string"/>
+<Field name="require_guest_profile_picture" type="string"/>
+<Field name="require_guest_phone_verification" type="string"/>
+<Field name="calculated_host_listings_count" type="integer"/>
+<Field name="calculated_host_listings_count_entire_homes" type="integer"/>
+<Field name="calculated_host_listings_count_private_rooms" type="integer"/>
+<Field name="calculated_host_listings_count_shared_rooms" type="integer"/>
+<Field eofAsDelimiter="true" name="reviews_per_month" scale="1" type="decimal"/>
+</Record>
+</Metadata>
+<Connection database="MYSQL" dbURL="jdbc:mysql://hostname:3306/PillowApplication" id="JDBC0" jdbcSpecific="MYSQL" name="NewConnection" password="password" type="JDBC" user="root@localhost"/>
+<Connection database="MYSQL" dbURL="jdbc:mysql://localhost:3306/PillowApplication?=autoReconnect=true&amp;useSSL=false" id="JDBC2" jdbcSpecific="MYSQL" name="NewConnection" password="password" type="JDBC" user="root"/>
+<Connection database="MYSQL" dbURL="jdbc:mysql://localhost:3306/PillowApplication" id="JDBC1" jdbcSpecific="MYSQL" name="Pillow" password="password" type="JDBC" user="root"/>
+<GraphParameters>
+<GraphParameterFile fileURL="workspace.prm"/>
+</GraphParameters>
+<Dictionary/>
+</Global>
+<Phase number="0">
+<Node dataPolicy="lenient" dbConnection="JDBC2" fetchSize="1000" guiName="DatabaseReader" guiX="51" guiY="58" id="DATABASE_READER" type="DB_INPUT_TABLE">
+<attr name="sqlQuery"><![CDATA[select $City:=`PillowApplication`.`Properties`.`City`
+from `PillowApplication`.`Properties`]]></attr>
+</Node>
+<Node dataPolicy="lenient" fileURL="${DATAIN_DIR}/Affordability_Wide_2019Q2_Public.csv" guiName="UniversalDataReader" guiX="41" guiY="152" id="UNIVERSAL_DATA_READER" skipLeadingBlanks="false" type="DATA_READER"/>
+<Edge fromNode="DATABASE_READER:0" guiBendpoints="" guiRouter="Manhattan" id="Edge1" inPort="Port 0 (driver)" metadata="Metadata6" outPort="Port 0 (out)" toNode="EXT_HASH_JOIN:0"/>
+<Edge fromNode="UNIVERSAL_DATA_READER:0" guiBendpoints="" guiRouter="Manhattan" id="Edge12" inPort="Port 0 (in)" metadata="Metadata0" outPort="Port 0 (output)" toNode="REFORMAT:0"/>
+</Phase>
+<Phase number="1">
+<Node guiName="Reformat" guiX="241" guiY="152" id="REFORMAT" type="REFORMAT">
+<attr name="transform"><![CDATA[//#CTL2
+
+// Transforms input record into output record.
+function integer transform() {
+	$out.0.Field1 = $in.0.Field1;
+	$out.0.Field2 = split($in.0.Field2, ",.*$")[0];
+	$out.0.Field3 = $in.0.Field3;
+	$out.0.Field4 = $in.0.Field4;
+	$out.0.Field5 = $in.0.Field5;
+	$out.0.Field6 = $in.0.Field6;
+	$out.0.Field7 = $in.0.Field7;
+	$out.0.Field8 = $in.0.Field8;
+	$out.0.Field9 = $in.0.Field9;
+	$out.0.Field10 = $in.0.Field10;
+	$out.0.Field11 = $in.0.Field11;
+	$out.0.Field12 = $in.0.Field12;
+	$out.0.Field13 = $in.0.Field13;
+	$out.0.Field14 = $in.0.Field14;
+	$out.0.Field15 = $in.0.Field15;
+	$out.0.Field16 = $in.0.Field16;
+	$out.0.Field17 = $in.0.Field17;
+	$out.0.Field18 = $in.0.Field18;
+	$out.0.Field19 = $in.0.Field19;
+	$out.0.Field20 = $in.0.Field20;
+	$out.0.Field21 = $in.0.Field21;
+	$out.0.Field22 = $in.0.Field22;
+	$out.0.Field23 = $in.0.Field23;
+	$out.0.Field24 = $in.0.Field24;
+	$out.0.Field25 = $in.0.Field25;
+	$out.0.Field26 = $in.0.Field26;
+	$out.0.Field27 = $in.0.Field27;
+	$out.0.Field28 = $in.0.Field28;
+	$out.0.Field29 = $in.0.Field29;
+	$out.0.Field30 = $in.0.Field30;
+	$out.0.Field31 = $in.0.Field31;
+	$out.0.Field32 = $in.0.Field32;
+	$out.0.Field33 = $in.0.Field33;
+	$out.0.Field34 = $in.0.Field34;
+	$out.0.Field35 = $in.0.Field35;
+	$out.0.Field36 = $in.0.Field36;
+	$out.0.Field37 = $in.0.Field37;
+	$out.0.Field38 = $in.0.Field38;
+	$out.0.Field39 = $in.0.Field39;
+	$out.0.Field40 = $in.0.Field40;
+	$out.0.Field41 = $in.0.Field41;
+	$out.0.Field42 = $in.0.Field42;
+	$out.0.Field43 = $in.0.Field43;
+	$out.0.Field44 = $in.0.Field44;
+	$out.0.Field45 = $in.0.Field45;
+	$out.0.Field46 = $in.0.Field46;
+	$out.0.Field47 = $in.0.Field47;
+	$out.0.Field48 = $in.0.Field48;
+	$out.0.Field49 = $in.0.Field49;
+	$out.0.Field50 = $in.0.Field50;
+	$out.0.Field51 = $in.0.Field51;
+	$out.0.Field52 = $in.0.Field52;
+	$out.0.Field53 = $in.0.Field53;
+	$out.0.Field54 = $in.0.Field54;
+	$out.0.Field55 = $in.0.Field55;
+	$out.0.Field56 = $in.0.Field56;
+	$out.0.Field57 = $in.0.Field57;
+	$out.0.Field58 = $in.0.Field58;
+	$out.0.Field59 = $in.0.Field59;
+	$out.0.Field60 = $in.0.Field60;
+	$out.0.Field61 = $in.0.Field61;
+	$out.0.Field62 = $in.0.Field62;
+	$out.0.Field63 = $in.0.Field63;
+	$out.0.Field64 = $in.0.Field64;
+	$out.0.Field65 = $in.0.Field65;
+	$out.0.Field66 = $in.0.Field66;
+	$out.0.Field67 = $in.0.Field67;
+	$out.0.Field68 = $in.0.Field68;
+	$out.0.Field69 = $in.0.Field69;
+	$out.0.Field70 = $in.0.Field70;
+	$out.0.Field71 = $in.0.Field71;
+	$out.0.Field72 = $in.0.Field72;
+	$out.0.Field73 = $in.0.Field73;
+	$out.0.Field74 = $in.0.Field74;
+	$out.0.Field75 = $in.0.Field75;
+	$out.0.Field76 = $in.0.Field76;
+	$out.0.Field77 = $in.0.Field77;
+	$out.0.Field78 = $in.0.Field78;
+	$out.0.Field79 = $in.0.Field79;
+	$out.0.Field80 = $in.0.Field80;
+	$out.0.Field81 = $in.0.Field81;
+	$out.0.Field82 = $in.0.Field82;
+	$out.0.Field83 = $in.0.Field83;
+	$out.0.Field84 = $in.0.Field84;
+	$out.0.Field85 = $in.0.Field85;
+	$out.0.Field86 = $in.0.Field86;
+	$out.0.Field87 = $in.0.Field87;
+	$out.0.Field88 = $in.0.Field88;
+	$out.0.Field89 = $in.0.Field89;
+	$out.0.Field90 = $in.0.Field90;
+	$out.0.Field91 = $in.0.Field91;
+	$out.0.Field92 = $in.0.Field92;
+	$out.0.Field93 = $in.0.Field93;
+	$out.0.Field94 = $in.0.Field94;
+	$out.0.Field95 = $in.0.Field95;
+	$out.0.Field96 = $in.0.Field96;
+	$out.0.Field97 = $in.0.Field97;
+	$out.0.Field98 = $in.0.Field98;
+	$out.0.Field99 = $in.0.Field99;
+	$out.0.Field100 = $in.0.Field100;
+	$out.0.Field101 = $in.0.Field101;
+	$out.0.Field102 = $in.0.Field102;
+	$out.0.Field103 = $in.0.Field103;
+	$out.0.Field104 = $in.0.Field104;
+	$out.0.Field105 = $in.0.Field105;
+	$out.0.Field106 = $in.0.Field106;
+	$out.0.Field107 = $in.0.Field107;
+	$out.0.Field108 = $in.0.Field108;
+	$out.0.Field109 = $in.0.Field109;
+	$out.0.Field110 = $in.0.Field110;
+	$out.0.Field111 = $in.0.Field111;
+	$out.0.Field112 = $in.0.Field112;
+	$out.0.Field113 = $in.0.Field113;
+	$out.0.Field114 = $in.0.Field114;
+	$out.0.Field115 = $in.0.Field115;
+	$out.0.Field116 = $in.0.Field116;
+	$out.0.Field117 = $in.0.Field117;
+	$out.0.Field118 = $in.0.Field118;
+	$out.0.Field119 = $in.0.Field119;
+	$out.0.Field120 = $in.0.Field120;
+	$out.0.Field121 = $in.0.Field121;
+	$out.0.Field122 = $in.0.Field122;
+	$out.0.Field123 = $in.0.Field123;
+	$out.0.Field124 = $in.0.Field124;
+	$out.0.Field125 = $in.0.Field125;
+	$out.0.Field126 = $in.0.Field126;
+	$out.0.Field127 = $in.0.Field127;
+	$out.0.Field128 = $in.0.Field128;
+	$out.0.Field129 = $in.0.Field129;
+	$out.0.Field130 = $in.0.Field130;
+	$out.0.Field131 = $in.0.Field131;
+	$out.0.Field132 = $in.0.Field132;
+	$out.0.Field133 = $in.0.Field133;
+	$out.0.Field134 = $in.0.Field134;
+	$out.0.Field135 = $in.0.Field135;
+	$out.0.Field136 = $in.0.Field136;
+	$out.0.Field137 = $in.0.Field137;
+	$out.0.Field138 = $in.0.Field138;
+	$out.0.Field139 = $in.0.Field139;
+	$out.0.Field140 = $in.0.Field140;
+	$out.0.Field141 = $in.0.Field141;
+	$out.0.Field142 = $in.0.Field142;
+	$out.0.Field143 = $in.0.Field143;
+	$out.0.Field144 = $in.0.Field144;
+	$out.0.Field145 = $in.0.Field145;
+	$out.0.Field146 = $in.0.Field146;
+	$out.0.Field147 = $in.0.Field147;
+	$out.0.Field148 = $in.0.Field148;
+	$out.0.Field149 = $in.0.Field149;
+	$out.0.Field150 = $in.0.Field150;
+	$out.0.Field151 = $in.0.Field151;
+	$out.0.Field152 = $in.0.Field152;
+	$out.0.Field153 = $in.0.Field153;
+	$out.0.Field154 = $in.0.Field154;
+	$out.0.Field155 = $in.0.Field155;
+	$out.0.Field156 = $in.0.Field156;
+	$out.0.Field157 = $in.0.Field157;
+	$out.0.Field158 = $in.0.Field158;
+	$out.0.Field159 = $in.0.Field159;
+	$out.0.Field160 = $in.0.Field160;
+	$out.0.Field161 = $in.0.Field161;
+	$out.0.Field162 = $in.0.Field162;
+	$out.0.Field163 = $in.0.Field163;
+	$out.0.Field164 = $in.0.Field164;
+	$out.0.Field165 = $in.0.Field165;
+	$out.0.Field166 = $in.0.Field166;
+	$out.0.Field167 = $in.0.Field167;
+
+	return ALL;
+}
+
+// Called during component initialization.
+// function boolean init() {}
+
+// Called during each graph run before the transform is executed. May be used to allocate and initialize resources
+// required by the transform. All resources allocated within this method should be released
+// by the postExecute() method.
+// function void preExecute() {}
+
+// Called only if transform() throws an exception.
+// function integer transformOnError(string errorMessage, string stackTrace) {}
+
+// Called during each graph run after the entire transform was executed. Should be used to free any resources
+// allocated within the preExecute() method.
+// function void postExecute() {}
+
+// Called to return a user-defined error message when an error occurs.
+// function string getMessage() {}
+]]></attr>
+</Node>
+<Edge fromNode="REFORMAT:0" guiBendpoints="" guiRouter="Manhattan" id="Edge7" inPort="Port 1 (slave)" metadata="Metadata0" outPort="Port 0 (out)" toNode="EXT_HASH_JOIN:1"/>
+</Phase>
+<Phase number="2">
+<Node guiName="ExtHashJoin" guiX="390" guiY="58" id="EXT_HASH_JOIN" joinKey="$City=$Field2" slaveDuplicates="false" type="EXT_HASH_JOIN">
+<attr name="transform"><![CDATA[//#CTL2
+
+// Transforms input record into output record.
+function integer transform() {
+	$out.0.City = $in.0.City;
+	$out.0.Field5 = $in.1.Field5;
+	$out.0.Field6 = $in.1.Field6;
+	$out.0.Field7 = $in.1.Field7;
+	$out.0.Field8 = $in.1.Field8;
+	$out.0.Field9 = $in.1.Field9;
+	$out.0.Field10 = $in.1.Field10;
+	$out.0.Field11 = $in.1.Field11;
+	$out.0.Field12 = $in.1.Field12;
+	$out.0.Field13 = $in.1.Field13;
+	$out.0.Field14 = $in.1.Field14;
+	$out.0.Field15 = $in.1.Field15;
+	$out.0.Field16 = $in.1.Field16;
+	$out.0.Field17 = $in.1.Field17;
+	$out.0.Field18 = $in.1.Field18;
+	$out.0.Field19 = $in.1.Field19;
+	$out.0.Field20 = $in.1.Field20;
+	$out.0.Field21 = $in.1.Field21;
+	$out.0.Field22 = $in.1.Field22;
+	$out.0.Field23 = $in.1.Field23;
+	$out.0.Field24 = $in.1.Field24;
+	$out.0.Field25 = $in.1.Field25;
+	$out.0.Field26 = $in.1.Field26;
+	$out.0.Field27 = $in.1.Field27;
+	$out.0.Field28 = $in.1.Field28;
+	$out.0.Field29 = $in.1.Field29;
+	$out.0.Field30 = $in.1.Field30;
+	$out.0.Field31 = $in.1.Field31;
+	$out.0.Field32 = $in.1.Field32;
+	$out.0.Field33 = $in.1.Field33;
+	$out.0.Field34 = $in.1.Field34;
+	$out.0.Field35 = $in.1.Field35;
+	$out.0.Field36 = $in.1.Field36;
+	$out.0.Field37 = $in.1.Field37;
+	$out.0.Field38 = $in.1.Field38;
+	$out.0.Field39 = $in.1.Field39;
+	$out.0.Field40 = $in.1.Field40;
+	$out.0.Field41 = $in.1.Field41;
+	$out.0.Field42 = $in.1.Field42;
+	$out.0.Field43 = $in.1.Field43;
+	$out.0.Field44 = $in.1.Field44;
+	$out.0.Field45 = $in.1.Field45;
+	$out.0.Field46 = $in.1.Field46;
+	$out.0.Field47 = $in.1.Field47;
+	$out.0.Field48 = $in.1.Field48;
+	$out.0.Field49 = $in.1.Field49;
+	$out.0.Field50 = $in.1.Field50;
+	$out.0.Field51 = $in.1.Field51;
+	$out.0.Field52 = $in.1.Field52;
+	$out.0.Field53 = $in.1.Field53;
+	$out.0.Field54 = $in.1.Field54;
+	$out.0.Field55 = $in.1.Field55;
+	$out.0.Field56 = $in.1.Field56;
+	$out.0.Field57 = $in.1.Field57;
+	$out.0.Field58 = $in.1.Field58;
+	$out.0.Field59 = $in.1.Field59;
+	$out.0.Field60 = $in.1.Field60;
+	$out.0.Field61 = $in.1.Field61;
+	$out.0.Field62 = $in.1.Field62;
+	$out.0.Field63 = $in.1.Field63;
+	$out.0.Field64 = $in.1.Field64;
+	$out.0.Field65 = $in.1.Field65;
+	$out.0.Field66 = $in.1.Field66;
+	$out.0.Field67 = $in.1.Field67;
+	$out.0.Field68 = $in.1.Field68;
+	$out.0.Field69 = $in.1.Field69;
+	$out.0.Field70 = $in.1.Field70;
+	$out.0.Field71 = $in.1.Field71;
+	$out.0.Field72 = $in.1.Field72;
+	$out.0.Field73 = $in.1.Field73;
+	$out.0.Field74 = $in.1.Field74;
+	$out.0.Field75 = $in.1.Field75;
+	$out.0.Field76 = $in.1.Field76;
+	$out.0.Field77 = $in.1.Field77;
+	$out.0.Field78 = $in.1.Field78;
+	$out.0.Field79 = $in.1.Field79;
+	$out.0.Field80 = $in.1.Field80;
+	$out.0.Field81 = $in.1.Field81;
+	$out.0.Field82 = $in.1.Field82;
+	$out.0.Field83 = $in.1.Field83;
+	$out.0.Field84 = $in.1.Field84;
+	$out.0.Field85 = $in.1.Field85;
+	$out.0.Field86 = $in.1.Field86;
+	$out.0.Field87 = $in.1.Field87;
+	$out.0.Field88 = $in.1.Field88;
+	$out.0.Field89 = $in.1.Field89;
+	$out.0.Field90 = $in.1.Field90;
+	$out.0.Field91 = $in.1.Field91;
+	$out.0.Field92 = $in.1.Field92;
+	$out.0.Field93 = $in.1.Field93;
+	$out.0.Field94 = $in.1.Field94;
+	$out.0.Field95 = $in.1.Field95;
+	$out.0.Field96 = $in.1.Field96;
+	$out.0.Field97 = $in.1.Field97;
+	$out.0.Field98 = $in.1.Field98;
+	$out.0.Field99 = $in.1.Field99;
+	$out.0.Field100 = $in.1.Field100;
+	$out.0.Field101 = $in.1.Field101;
+	$out.0.Field102 = $in.1.Field102;
+	$out.0.Field103 = $in.1.Field103;
+	$out.0.Field104 = $in.1.Field104;
+	$out.0.Field105 = $in.1.Field105;
+	$out.0.Field106 = $in.1.Field106;
+	$out.0.Field107 = $in.1.Field107;
+	$out.0.Field108 = $in.1.Field108;
+	$out.0.Field109 = $in.1.Field109;
+	$out.0.Field110 = $in.1.Field110;
+	$out.0.Field111 = $in.1.Field111;
+	$out.0.Field112 = $in.1.Field112;
+	$out.0.Field113 = $in.1.Field113;
+	$out.0.Field114 = $in.1.Field114;
+	$out.0.Field115 = $in.1.Field115;
+	$out.0.Field116 = $in.1.Field116;
+	$out.0.Field117 = $in.1.Field117;
+	$out.0.Field118 = $in.1.Field118;
+	$out.0.Field119 = $in.1.Field119;
+	$out.0.Field120 = $in.1.Field120;
+	$out.0.Field121 = $in.1.Field121;
+	$out.0.Field122 = $in.1.Field122;
+	$out.0.Field123 = $in.1.Field123;
+	$out.0.Field124 = $in.1.Field124;
+	$out.0.Field125 = $in.1.Field125;
+	$out.0.Field126 = $in.1.Field126;
+	$out.0.Field127 = $in.1.Field127;
+	$out.0.Field128 = $in.1.Field128;
+	$out.0.Field129 = $in.1.Field129;
+	$out.0.Field130 = $in.1.Field130;
+	$out.0.Field131 = $in.1.Field131;
+	$out.0.Field132 = $in.1.Field132;
+	$out.0.Field133 = $in.1.Field133;
+	$out.0.Field134 = $in.1.Field134;
+	$out.0.Field135 = $in.1.Field135;
+	$out.0.Field136 = $in.1.Field136;
+	$out.0.Field137 = $in.1.Field137;
+	$out.0.Field138 = $in.1.Field138;
+	$out.0.Field139 = $in.1.Field139;
+	$out.0.Field140 = $in.1.Field140;
+	$out.0.Field141 = $in.1.Field141;
+	$out.0.Field142 = $in.1.Field142;
+	$out.0.Field143 = $in.1.Field143;
+	$out.0.Field144 = $in.1.Field144;
+	$out.0.Field145 = $in.1.Field145;
+	$out.0.Field146 = $in.1.Field146;
+	$out.0.Field147 = $in.1.Field147;
+	$out.0.Field148 = $in.1.Field148;
+	$out.0.Field149 = $in.1.Field149;
+	$out.0.Field150 = $in.1.Field150;
+	$out.0.Field151 = $in.1.Field151;
+	$out.0.Field152 = $in.1.Field152;
+	$out.0.Field153 = $in.1.Field153;
+	$out.0.Field154 = $in.1.Field154;
+	$out.0.Field155 = $in.1.Field155;
+	$out.0.Field156 = $in.1.Field156;
+	$out.0.Field157 = $in.1.Field157;
+	$out.0.Field158 = $in.1.Field158;
+	$out.0.Field159 = $in.1.Field159;
+	$out.0.Field160 = $in.1.Field160;
+	$out.0.Field161 = $in.1.Field161;
+	$out.0.Field162 = $in.1.Field162;
+	$out.0.Field163 = $in.1.Field163;
+	$out.0.Field164 = $in.1.Field164;
+	$out.0.Field165 = $in.1.Field165;
+	$out.0.Field166 = $in.1.Field166;
+	$out.0.Field167 = $in.1.Field167;
+
+	return ALL;
+}
+
+// Called during component initialization.
+// function boolean init() {}
+
+// Called during each graph run before the transform is executed. May be used to allocate and initialize resources
+// required by the transform. All resources allocated within this method should be released
+// by the postExecute() method.
+// function void preExecute() {}
+
+// Called only if transform() throws an exception.
+// function integer transformOnError(string errorMessage, string stackTrace) {}
+
+// Called during each graph run after the entire transform was executed. Should be used to free any resources
+// allocated within the preExecute() method.
+// function void postExecute() {}
+
+// Called to return a user-defined error message when an error occurs.
+// function string getMessage() {}
+]]></attr>
+</Node>
+<Edge fromNode="EXT_HASH_JOIN:0" guiBendpoints="" guiRouter="Manhattan" id="Edge0" inPort="Port 0 (in)" metadata="Metadata9" outPort="Port 0 (out)" toNode="DEDUP:0"/>
+</Phase>
+<Phase number="3">
+<Node dedupKey="Field5(i);Field6(i);Field7(i);City(a)" equalNULL="true" guiName="Dedup" guiX="609" guiY="58" id="DEDUP" keep="first" sorted="false" type="DEDUP"/>
+<Edge fromNode="DEDUP:0" guiBendpoints="" guiRouter="Manhattan" id="Edge8" inPort="Port 0 (in)" outPort="Port 0 (unique)" toNode="UNIVERSAL_DATA_WRITER:0"/>
+</Phase>
+<Phase number="4">
+<Node fileURL="${DATAOUT_DIR}/data.txt" guiName="UniversalDataWriter" guiX="601" guiY="176" id="UNIVERSAL_DATA_WRITER" type="DATA_WRITER"/>
+</Phase>
+</Graph>
